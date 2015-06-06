@@ -59,3 +59,6 @@ target/
 #db and migration repo
 app.db
 db_repository/
+
+#tmp
+tmp/
