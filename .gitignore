@@ -62,3 +62,6 @@ db_repository/
 
 #tmp
 tmp/
+
+#test
+test.db
